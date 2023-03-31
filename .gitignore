@@ -3,3 +3,5 @@
 *.jpg
 *.csv
 Images/
+Pretraitement texte-Copy1.ipynb
+Word2Vec.model
