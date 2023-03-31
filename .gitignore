@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+.Ds_store
+*.jpg
+*.csv
+Images/
